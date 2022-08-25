@@ -11,6 +11,7 @@ const FormInput = (props) => {
 
   return (
     <div className="formInput">
+      <h1>git Test</h1>
       <label>{label}</label>
       <input
         {...inputProps}
